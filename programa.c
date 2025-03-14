@@ -1,7 +1,4 @@
-/*Programa de um sistema básico de gestão de consultas médicas.
-Discente: Ana Jackeline Alves da Silva
-Disciplinas: Algoritmo e Estruturas de Dados I e
-Laboratório de Algoritmo e Estruturas de Dados I*/
+/*Programa de um sistema básico de gestão de consultas médicas.*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
